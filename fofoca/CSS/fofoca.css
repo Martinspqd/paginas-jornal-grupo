@@ -1,0 +1,112 @@
+body{
+    width: auto;
+    max-width: 1200px;
+    margin: auto;
+}
+.link{
+    float: right;
+    margin-right: 50px;
+}
+h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+nav{
+    padding: 10px 10px;
+    
+    text-align: center;
+}
+nav .topico{
+    margin: 10px 60px
+}
+.topico{
+    margin: 10px auto;
+}
+section h3{
+    border: 1px solid;
+    padding: 3px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.incedio{
+    width: 200px;
+    height: 150px;
+}
+section .incedio{
+    border: 1px solid;
+    float: left;
+    margin: 0 0 5px 5px;
+    padding: 3px;
+}
+
+.clear{
+    clear: both;
+}
+
+.capa{
+    width: 200px;
+    height: 150px;
+}
+section .capa{
+    border: 1px solid;
+    float: left;
+    margin: 0 0 5px 5px;
+    padding: 3px;
+}
+
+
+.bbb{
+    width: 200px;
+    height: 150px;
+}
+section .bbb{
+    border: 1px solid;
+    float: left;
+    margin: 0 0 5px 5px;
+    padding: 3px;
+}
+
+.karine{
+    width: 200px;
+    height: 150px;
+}
+section .karine{
+    border: 1px solid;
+    float: left;
+    margin: 0 0 5px 5px;
+    padding: 3px;
+}
+
+.casa{
+    width: 200px;
+    height: 150px;
+}
+section .casa{
+    border: 1px solid;
+    float: left;
+    margin: 0 0 5px 5px;
+    padding: 3px;
+}
+
+.elon{
+    width: 200px;
+    height: 150px;
+}
+section .elon{
+    border: 1px solid;
+    float: left;
+    margin: 0 0 5px 5px;
+    padding: 3px;
+}
+
+.acrobata{
+    width: 200px;
+    height: 150px;
+}
+section .acrobata{
+    border: 1px solid;
+    float: left;
+    margin: 0 0 5px 5px;
+    padding: 3px;
+}
