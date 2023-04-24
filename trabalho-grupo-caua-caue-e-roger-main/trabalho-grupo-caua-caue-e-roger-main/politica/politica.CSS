@@ -1,0 +1,91 @@
+body{
+    background-color: white;
+    margin: 0 auto;
+    line-height: 1.5;
+    
+}
+
+main{
+    margin: auto;
+    margin-top: 4rem;
+    max-width: 900px;
+   
+}
+
+h1{
+
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px ;
+    text-align: center;
+    padding: 50px;
+}
+
+h1:hover{
+    color: #C81313;
+    text-align: center;
+}
+
+
+img{
+    display: block;
+    margin: auto;
+}
+
+.PRIMEIRO{
+    background-color: rgb(222, 216, 216);
+    border: 1px solid rgb(222, 216, 216);
+    text-align: center;
+
+}
+
+
+nav{
+    background-color: rgb(222, 216, 216);
+    border: 1px solid rgb(222, 216, 216); 
+    margin: 15px 30px;
+    text-align: center;
+    word-spacing: 25px;
+   
+}
+
+iframe{
+    display: block;
+    margin: auto;
+}
+
+.box{
+    
+   
+    clear: left;
+    float: right;
+    margin-top: 4rem;
+    padding: 0%;
+
+}
+
+.imgs{
+    border: 0;
+    background-color: antiquewhite;
+   
+    clear: both;
+    float: left;
+ 
+}
+
+.section1{
+    text-indent: 10px;
+}
+
+.a{
+    text-align:center;
+}
+
+h2{
+    background-color: rgb(222, 216, 216);
+    text-align: justify;
+}
+
+hr{
+    color: black;
+}
